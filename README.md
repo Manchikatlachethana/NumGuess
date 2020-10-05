@@ -4,5 +4,5 @@
    * Fun with Numbers.
    * Beginner Friendly!
    * Used latest version of python.
-   ## Download ```number_guess.py```
+   ## Download ```Number_Game Folder```
     - Just run the code to play the game! 
